@@ -6,6 +6,9 @@ Aplikasi ini adalah berisikan kode-kode aplikasi pendataan Siswa di SMKN 2 PASUN
 
 Cara untuk menginstal projek ini adalah hal pertama yang dilakukan adalah instal dahulu XAMPP versi terbaru atau minimal XAMPP ver.7.1.3 dan setelah itu download projek ini dan extract projek ini yang sudah di download dan simpan pojek di folder htdocs contoh C:/XAMPP/HTDOCS . Kemudian setelah itu coba jalankan program tersebut dengan menggunakan google chrome , firefox atau sejenisnya contoh http://localhost/10515088_UAS_ECOM-master/public.
 
+username : "admin"
+Password : "admin"
+
 # Deskripsi Program
 Program Laravel ini di integrasikan dengan menggunakan tema  template admin LTE 2.3.11 . Dalam program ini terdapat CRUD (Create,Rename,Update,Delete) , Eloquent Relationsip, Login , Logout , dan Upload File.
 
