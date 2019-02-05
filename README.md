@@ -9,4 +9,16 @@ Cara untuk menginstal projek ini adalah hal pertama yang dilakukan adalah instal
 # Deskripsi Program
 Program Laravel ini di integrasikan dengan menggunakan tema  template admin LTE 2.3.11 . Dalam program ini terdapat CRUD (Create,Rename,Update,Delete) , Eloquent Relationsip, Login , Logout , dan Upload File.
 
+# Temple admin LTE 2.3.11
+
+# CRUD
+
+# Eloquent Relationsip
+
+# Login dan Logout
+
+# Upload File
+
+
+
 
